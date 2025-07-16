@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
-
-
 # 🔤 Custom Tokenizer with Python
 
 A beginner-friendly project to build your own tokenizer — like how GPT models break down text into tokens.
